@@ -53,3 +53,4 @@ uvicorn==0.18.2
 validators==0.20.0
 virtualenv==20.13.1
 Werkzeug==2.1.1
+gunicorn
